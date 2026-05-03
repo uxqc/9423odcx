@@ -1,4 +1,4 @@
-const FALLBACK_BYPASS = [
+[
   {
     name: "Grand Theft Auto V: Legacy",
     steamAppId: 271590,
