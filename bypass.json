@@ -4,6 +4,7 @@
       "name": "Grand Theft Auto V: Legacy",
       "steamAppId": 271590,
       "exeName": "PlayGTAV.exe",
+      "working": "true",
       "launchExe": "PlayGTAV.bat",
       "folderName": "Grand Theft Auto V",
       "files": [
@@ -19,6 +20,7 @@
       "name": "Grand Theft Auto V: Enhanced",
       "steamAppId": 3240220,
       "exeName": "PlayGTAV.exe",
+      "working": "true",
       "folderName": "Grand Theft Auto V Enhanced",
       "files": [
         "https://github.com/uxqc/L4unch3rH0sting/releases/download/gtave/RUNE64.dll",
@@ -32,6 +34,7 @@
       "name": "Red Dead Redemption 2",
       "steamAppId": 1174180,
       "exeName": "RDR2.exe",
+      "working": "false",
       "launchExe": "Launcher.exe",
       "files": [
         "https://github.com/uxqc/L4unch3rH0sting/releases/download/RDR2Files/1911.dll",
@@ -44,6 +47,7 @@
       "name": "Red Dead Redemption",
       "steamAppId": 2668510,
       "exeName": "RDR.exe",
+      "working": "true",
       "launchExe": "PlayRDR.exe",
       "files": [
         "https://github.com/uxqc/L4unch3rH0sting/releases/download/RDR1Files/1911.dll",
@@ -56,6 +60,7 @@
       "name": "Grand Theft Auto IV",
       "steamAppId": 12210,
       "exeName": "GTAIV.exe",
+      "working": "true",
       "launchExe": "PlayGTAIV.exe",
       "files": [
         "https://github.com/uxqc/L4unch3rH0sting/releases/download/GTAIVFiles/binkw32.dll",
