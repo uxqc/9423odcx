@@ -20,7 +20,7 @@
       "name": "Grand Theft Auto V: Enhanced",
       "steamAppId": 3240220,
       "exeName": "PlayGTAV.exe",
-      "working": "true",
+      "working": "false",
       "folderName": "Grand Theft Auto V Enhanced",
       "files": [
         "https://github.com/uxqc/L4unch3rH0sting/releases/download/gtave/RUNE64.dll",
@@ -34,7 +34,7 @@
       "name": "Red Dead Redemption 2",
       "steamAppId": 1174180,
       "exeName": "RDR2.exe",
-      "working": "false",
+      "working": "true",
       "launchExe": "Launcher.exe",
       "files": [
         "https://github.com/uxqc/L4unch3rH0sting/releases/download/RDR2Files/1911.dll",
